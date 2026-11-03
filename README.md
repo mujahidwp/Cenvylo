@@ -12,7 +12,7 @@
 > [!NOTE]
 > Cenvylo is officially distributed through **WordPress.org**. Please download, install and get updates from its [WordPress.org page](https://wordpress.org/themes/cenvylo/) so you always have the latest reviewed version.
 
-<p align="center"><img src="assets/screenshot.png" alt="Cenvylo screenshot" width="720"></p>
+<p align="center"><a href="https://wordpress.org/themes/cenvylo/"><img src="assets/screenshot.png" alt="Cenvylo screenshot" width="720"></a></p>
 
 ## About
 
